@@ -1,0 +1,7 @@
+wage_fund:
+    average monthly salary (nominal) of a full-time employee; 
+    average salary (nominal) of a full-time employee; 
+    indices for real wage, percent of the same month of the previous year; indices for real wage, percent of the same period of the previous year; 
+    indices for real wage, percent of the previous period (year, month, etc..)
+migration:
+    Beneficiaries of temporary protection by citizenship - per thousand persons

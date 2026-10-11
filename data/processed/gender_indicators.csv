@@ -1,0 +1,311 @@
+Year,Indicator Name,Indicator Code,Value
+2018,"Age population, age 05, male",SP.POP.AG05.MA.IN,265625.0
+2018,"Children out of school, primary, male",SE.PRM.UNER.MA,167700.0
+2018,"Children out of school, primary, female",SE.PRM.UNER.FE,150378.0
+2018,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,96.6414530476994
+2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,12.2931442080378
+2018,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,87.6440756108806
+2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,18.583
+2018,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,93.178
+2018,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,87.2886040456639
+2018,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,254.486
+2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.326
+2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.569
+2018,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,76.764489943948
+2018,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,47.3015541905732
+2018,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,5963.0
+2018,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,86.4879838892918
+2018,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0167692936109272
+2018,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,16.0
+2018,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,80.5676193237305
+2018,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,85.7435447040225
+2018,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,85.9279826554464
+2018,"Age population, age 03, female",SP.POP.AG03.FE.IN,224300.0
+2018,"Age population, age 02, male",SP.POP.AG02.MA.IN,226425.0
+2018,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,22.1885
+2018,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,16.7164
+2018,"Age population, age 01, male",SP.POP.AG01.MA.IN,213745.0
+2018,"Age population, age 00, female",SP.POP.AG00.FE.IN,184210.0
+2018,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,82.7968607825296
+2018,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,85.0923916333042
+2018,"Age population, age 00, male",SP.POP.AG00.MA.IN,196000.0
+2018,"Age population, age 02, female",SP.POP.AG02.FE.IN,212413.0
+2018,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.64
+2018,"Age population, age 01, female",SP.POP.AG01.FE.IN,200825.0
+2018,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,64.194008
+2018,"Age population, age 03, male",SP.POP.AG03.MA.IN,238720.0
+2018,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.233
+2018,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,87.8052854488758
+2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11242595223159
+2018,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,26.12
+2018,"Age population, age 05, female",SP.POP.AG05.FE.IN,249665.0
+2018,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,89.3897376114914
+2018,"Age population, age 04, male",SP.POP.AG04.MA.IN,254834.0
+2018,"Age population, age 04, female",SP.POP.AG04.FE.IN,239783.0
+2018,Proportion of women in ministerial level positions (%),SG.GEN.MNST.ZS,20.8
+2018,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,85.623963
+2019,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,6275.0
+2019,"Age population, age 02, female",SP.POP.AG02.FE.IN,200647.0
+2019,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,47.3872215645004
+2019,"Age population, age 05, female",SP.POP.AG05.FE.IN,239671.0
+2019,"Age population, age 02, male",SP.POP.AG02.MA.IN,213546.0
+2019,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0159361829808212
+2019,"Age population, age 04, male",SP.POP.AG04.MA.IN,238575.0
+2019,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,16.0
+2019,"Age population, age 03, female",SP.POP.AG03.FE.IN,212261.0
+2019,"Age population, age 04, female",SP.POP.AG04.FE.IN,224171.0
+2019,"Age population, age 01, male",SP.POP.AG01.MA.IN,195631.0
+2019,"Age population, age 03, male",SP.POP.AG03.MA.IN,226256.0
+2019,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.218
+2019,"Age population, age 01, female",SP.POP.AG01.FE.IN,183888.0
+2019,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.76
+2019,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,26.04
+2019,Proportion of women in ministerial level positions (%),SG.GEN.MNST.ZS,35.2941176470588
+2019,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,16.636
+2019,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,90.459
+2019,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,249.581
+2019,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,64.873096
+2019,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.73
+2019,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.866
+2019,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,86.119178
+2019,"Age population, age 00, male",SP.POP.AG00.MA.IN,184190.0
+2019,"Age population, age 05, male",SP.POP.AG05.MA.IN,254709.0
+2019,"Age population, age 00, female",SP.POP.AG00.FE.IN,172937.0
+2019,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,16.8587
+2019,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,22.5041
+2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.5188679245283
+2019,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,89.9799803822954
+2019,"Children out of school, primary, female",SE.PRM.UNER.FE,149653.0
+2019,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,90.2167128350951
+2019,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,89.8622836594431
+2019,"Children out of school, primary, male",SE.PRM.UNER.MA,161934.0
+2019,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,88.295336075709
+2019,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,91.1749607948472
+2019,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,84.1827127906211
+2019,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,89.1079081369506
+2019,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,89.4289185905225
+2019,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,84.7468835528529
+2019,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,79.2903692233542
+2019,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,98.4799091270098
+2019,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,81.8564529418945
+2019,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11879988319096
+2020,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,21.8559
+2020,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,91.5619888476849
+2020,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,84.7870132572542
+2020,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.94
+2020,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.87
+2020,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,249.938
+2020,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,89.8628503279666
+2020,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.489
+2020,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.024
+2020,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,89.6353707624231
+2020,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.348
+2020,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.208
+2020,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,98.4991139671004
+2020,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,85.063732
+2020,"Children out of school, primary, female",SE.PRM.UNER.FE,148817.0
+2020,Proportion of women in ministerial level positions (%),SG.GEN.MNST.ZS,13.6363636363636
+2020,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,90.6890162813279
+2020,"Children out of school, primary, male",SE.PRM.UNER.MA,160632.0
+2020,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,64.675756
+2020,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,84.0895838478078
+2020,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,96.507
+2020,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,89.2770661812595
+2020,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,78.2052312203572
+2020,"Age population, age 01, female",SP.POP.AG01.FE.IN,172731.0
+2020,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.09394439528094
+2020,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,5662.0
+2020,"Age population, age 01, male",SP.POP.AG01.MA.IN,183946.0
+2020,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,86.3139423375747
+2020,"Age population, age 04, female",SP.POP.AG04.FE.IN,212196.0
+2020,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,18.0
+2020,"Age population, age 02, female",SP.POP.AG02.FE.IN,183802.0
+2020,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,90.2680355726497
+2020,"Age population, age 02, male",SP.POP.AG02.MA.IN,195526.0
+2020,"Age population, age 03, female",SP.POP.AG03.FE.IN,200571.0
+2020,"Age population, age 03, male",SP.POP.AG03.MA.IN,213453.0
+2020,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0176601544453031
+2020,"Age population, age 05, male",SP.POP.AG05.MA.IN,238505.0
+2020,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,15.9934
+2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.8037825059102
+2020,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,82.2675323486328
+2020,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,47.4820678651645
+2020,"Age population, age 05, female",SP.POP.AG05.FE.IN,224114.0
+2020,"Age population, age 00, female",SP.POP.AG00.FE.IN,166000.0
+2020,"Age population, age 04, male",SP.POP.AG04.MA.IN,226176.0
+2020,"Age population, age 00, male",SP.POP.AG00.MA.IN,176681.0
+2021,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11470994975223
+2021,"Age population, age 04, male",SP.POP.AG04.MA.IN,213384.0
+2021,"Age population, age 05, male",SP.POP.AG05.MA.IN,226116.0
+2021,"Age population, age 04, female",SP.POP.AG04.FE.IN,200516.0
+2021,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.033
+2021,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,82.675406
+2021,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.124
+2021,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.148
+2021,"Age population, age 05, female",SP.POP.AG05.FE.IN,212149.0
+2021,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,266.671
+2021,"Age population, age 02, female",SP.POP.AG02.FE.IN,172647.0
+2021,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,62.247741
+2021,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,20.0568
+2021,"Age population, age 00, female",SP.POP.AG00.FE.IN,155898.0
+2021,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,91.5652917229355
+2021,"Age population, age 00, male",SP.POP.AG00.MA.IN,165790.0
+2021,"Age population, age 01, female",SP.POP.AG01.FE.IN,165823.0
+2021,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,18.99
+2021,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,90.756663402987
+2021,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,88.8297059710059
+2021,"Age population, age 01, male",SP.POP.AG01.MA.IN,176465.0
+2021,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.84
+2021,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,89.7791983702214
+2021,"Age population, age 02, male",SP.POP.AG02.MA.IN,183844.0
+2021,"Age population, age 03, female",SP.POP.AG03.FE.IN,183734.0
+2021,"Age population, age 03, male",SP.POP.AG03.MA.IN,195443.0
+2021,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,14.9374
+2021,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,90.0122549019608
+2021,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,85.0508078338962
+2021,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0235386912405293
+2021,"Children out of school, primary, female",SE.PRM.UNER.FE,144742.0
+2021,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,80.6778566384496
+2021,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,26.0
+2021,"Children out of school, primary, male",SE.PRM.UNER.MA,155113.0
+2021,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,98.4114951242204
+2021,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,82.3466796875
+2021,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.8037825059102
+2021,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,110.716
+2021,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,90.4013015184382
+2021,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,14.417
+2021,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,47.5805312244608
+2021,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,71.4233037573353
+2021,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,4248.0
+2021,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,84.2749747681976
+2022,"Age population, age 02, female",SP.POP.AG02.FE.IN,154815.0
+2022,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.12
+2022,"Age population, age 01, female",SP.POP.AG01.FE.IN,145235.0
+2022,"Age population, age 01, male",SP.POP.AG01.MA.IN,154418.0
+2022,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,17.263
+2022,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,16.0
+2022,"Age population, age 00, female",SP.POP.AG00.FE.IN,121138.0
+2022,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,23.5193
+2022,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.3309692671395
+2022,"Age population, age 00, male",SP.POP.AG00.MA.IN,128740.0
+2022,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,8707.0
+2022,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.897
+2022,"Age population, age 04, female",SP.POP.AG04.FE.IN,171318.0
+2022,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.73
+2022,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,43.5376816614815
+2022,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.271
+2022,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0114854256956184
+2022,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,85.928165
+2022,"Age population, age 03, male",SP.POP.AG03.MA.IN,171633.0
+2022,"Age population, age 04, male",SP.POP.AG04.MA.IN,182240.0
+2022,"Age population, age 05, female",SP.POP.AG05.FE.IN,186908.0
+2022,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.413
+2022,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,59.529079
+2022,"Age population, age 03, female",SP.POP.AG03.FE.IN,161195.0
+2022,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,93.796
+2022,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,310.498
+2022,Proportion of women in ministerial level positions (%),SG.GEN.MNST.ZS,21.0526315789474
+2022,"Age population, age 02, male",SP.POP.AG02.MA.IN,164734.0
+2022,"Age population, age 05, male",SP.POP.AG05.MA.IN,198871.0
+2022,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.193
+2023,"Age population, age 05, female",SP.POP.AG05.FE.IN,157071.0
+2023,"Age population, age 05, male",SP.POP.AG05.MA.IN,167053.0
+2023,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.987550020217896
+2023,"Age population, age 01, female",SP.POP.AG01.FE.IN,110011.0
+2023,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,9109.0
+2023,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,43.5849285040328
+2023,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,15.0
+2023,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,83.0565032958984
+2023,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,94.1195983886719
+2023,"Age population, age 01, male",SP.POP.AG01.MA.IN,116884.0
+2023,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0109779991693209
+2023,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,82.0221481323242
+2023,"Age population, age 03, male",SP.POP.AG03.MA.IN,151930.0
+2023,"Age population, age 02, female",SP.POP.AG02.FE.IN,133702.0
+2023,"Age population, age 03, female",SP.POP.AG03.FE.IN,142804.0
+2023,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,95.0039291381836
+2023,"Age population, age 02, male",SP.POP.AG02.MA.IN,142131.0
+2023,"Age population, age 04, male",SP.POP.AG04.MA.IN,157808.0
+2023,"Age population, age 04, female",SP.POP.AG04.FE.IN,148192.0
+2023,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,90.2232486528099
+2023,"Children out of school, primary, female",SE.PRM.UNER.FE,91660.0
+2023,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.9
+2023,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.25
+2023,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,93.9633102416992
+2023,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.63
+2023,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,89.8729471868239
+2023,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,95.230583190918
+2023,"Children out of school, primary, male",SE.PRM.UNER.MA,101956.0
+2023,Proportion of women in ministerial level positions (%),SG.GEN.MNST.ZS,21.0526315789474
+2023,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,98.7770204112375
+2023,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,86.775174
+2023,"Age population, age 00, male",SP.POP.AG00.MA.IN,103477.0
+2023,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,60.783297
+2023,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.977
+2023,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,20.4326923076923
+2023,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,11.377
+2023,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,17.6304
+2023,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,87.33740234375
+2023,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.198
+2023,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,87.602
+2023,"Age population, age 00, female",SP.POP.AG00.FE.IN,97398.0
+2023,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,23.992
+2023,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,86.8421096801758
+2023,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,83.2058334350586
+2023,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,300.04
+2024,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,93.8737335205078
+2024,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,235.755
+2024,"Children out of school, primary, female",SE.PRM.UNER.FE,91122.0
+2024,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.0918114143921
+2024,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,86.909752
+2024,"Age population, age 04, female",SP.POP.AG04.FE.IN,147304.0
+2024,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,98.6243306147936
+2024,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,85.178
+2024,"Age population, age 05, male",SP.POP.AG05.MA.IN,161425.0
+2024,"Age population, age 05, female",SP.POP.AG05.FE.IN,152219.0
+2024,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,0.988
+2024,"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,89.8915963161934
+2024,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.853950023651123
+2024,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,43.5229841469455
+2024,"Age population, age 04, male",SP.POP.AG04.MA.IN,155986.0
+2024,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.939
+2024,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.393
+2024,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.786
+2024,"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,90.3713892709766
+2024,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,66.598519
+2024,"Age population, age 00, male",SP.POP.AG00.MA.IN,113818.0
+2024,"Age population, age 00, female",SP.POP.AG00.FE.IN,108164.0
+2024,"Age population, age 01, male",SP.POP.AG01.MA.IN,109026.0
+2024,"Life expectancy at age 60, female (years)",SP.DYN.LE60.FE.IN,22.8504
+2024,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,80.1634292602539
+2024,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,94.0991821289062
+2024,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,93.6400604248047
+2024,"Age population, age 03, male",SP.POP.AG03.MA.IN,146643.0
+2024,"Age population, age 02, female",SP.POP.AG02.FE.IN,115550.0
+2024,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,86.3840713500977
+2024,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,92.5612182617188
+2024,"Prevalence of obesity, male (% of male population ages 18+)",SH.STA.OB18.MA.ZS,19.38
+2024,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,85.967643737793
+2024,"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,82.8043670654297
+2024,"Age population, age 02, male",SP.POP.AG02.MA.IN,121905.0
+2024,"Prevalence of obesity, female (% of female population ages 18+)",SH.STA.OB18.FE.ZS,25.54
+2024,"Children out of school, primary, male",SE.PRM.UNER.MA,102653.0
+2024,Proportion of women in ministerial level positions (%),SG.GEN.MNST.ZS,26.3157894736842
+2024,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,95.5631484985352
+2024,"Age population, age 03, female",SP.POP.AG03.FE.IN,138693.0
+2024,"Age population, age 01, female",SP.POP.AG01.FE.IN,103521.0
+2024,"Life expectancy at age 60, male (years)",SP.DYN.LE60.MA.IN,21.8002
+2025,"Age population, age 01, female",SP.POP.AG01.FE.IN,124760.0
+2025,"Age population, age 00, female",SP.POP.AG00.FE.IN,121478.0
+2025,"Age population, age 05, male",SP.POP.AG05.MA.IN,166731.0
+2025,"Age population, age 00, male",SP.POP.AG00.MA.IN,126342.0
+2025,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.1970074812968
+2025,"Age population, age 03, male",SP.POP.AG03.MA.IN,134710.0
+2025,"Age population, age 05, female",SP.POP.AG05.FE.IN,158963.0
+2025,"Age population, age 04, male",SP.POP.AG04.MA.IN,158362.0
+2025,"Age population, age 02, male",SP.POP.AG02.MA.IN,123033.0
+2025,"Age population, age 03, female",SP.POP.AG03.FE.IN,129442.0
+2025,"Age population, age 04, female",SP.POP.AG04.FE.IN,151408.0
+2025,Proportion of women in ministerial level positions (%),SG.GEN.MNST.ZS,20.0
+2025,"Age population, age 01, male",SP.POP.AG01.MA.IN,129091.0
+2025,"Age population, age 02, female",SP.POP.AG02.FE.IN,118718.0
